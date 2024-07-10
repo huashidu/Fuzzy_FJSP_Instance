@@ -1,2 +1,4 @@
 # Fuzzy_FJSP_Instance
 Instance from &lt;A genetic algorithm for flexible job shop scheduling with fuzzy processing time> and &lt;Swarm-based neighbourhood search algorithm for fuzzy flexible job shop scheduling>
+
+Considering the scarcity of research on fuzzy distributed flexible job shop scheduling problems (FDFJSP) and the lack of standard test examples, this study utilizes six standard instances provided by Lei (instances 1 to 4) and Lei, Guo (instances 5 and 6). These instances were first modified through random deletion to meet the requirements of this study's P-FJSP, then recombined and expanded to form 14 instances suitable for FDFJSP. The specific scale of these examples is detailed in Table 5, where f denotes the number of factories involved.
